@@ -1,0 +1,40 @@
+.muted { 
+	color: #6b7280; 
+}
+.error { 
+	padding: 12px; 
+	border: 1px solid #fecaca; 
+	background: #fff1f2; 
+	border-radius: 12px; 
+}
+.hint { 
+	color: #6b7280; 
+	margin-top: 4px; 
+}
+
+.list { 
+	display: grid; 
+	gap: 12px;
+}
+.card { 
+	border: 1px solid #e5e7eb; 
+	border-radius: 12px; 
+	padding: 12px; 
+}
+.title { 
+	margin: 0 0 6px; 
+	font-size: 16px; 
+}
+.desc {
+	color: #374151; 
+}
+
+.skeletonList { 
+	display: grid; 
+	gap: 12px; 
+}
+.skeleton {
+  height: 64px; 
+  border-radius: 12px; 
+  border: 1px solid #e5e7eb;
+}

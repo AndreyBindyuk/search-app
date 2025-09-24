@@ -40,3 +40,9 @@ a {
     color-scheme: dark;
   }
 }
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+}

@@ -1,0 +1,22 @@
+[
+  { "id": "1",  "title": "Titanic", "description": "A romance between a socialite and a young artist unfolds aboard the ill-fated RMS Titanic in 1912." },
+  { "id": "2",  "title": "Avatar", "description": "A paraplegic Marine on the alien world Pandora must choose between following orders and protecting the Na’vi." },
+  { "id": "3",  "title": "Avengers: Endgame", "description": "The surviving heroes unite for one final mission to undo Thanos’s snap and restore the universe." },
+  { "id": "4",  "title": "Avengers: Infinity War", "description": "The Avengers and their allies battle Thanos as he seeks all six Infinity Stones." },
+  { "id": "5",  "title": "Iron Man", "description": "Billionaire engineer Tony Stark builds a high-tech suit of armor and becomes the armored Avenger." },
+  { "id": "6",  "title": "Black Panther", "description": "T’Challa returns to Wakanda to claim the throne and confronts a challenger with a radical vision." },
+  { "id": "7",  "title": "Thor: Ragnarok", "description": "Imprisoned on a distant world, Thor must escape and stop the prophesied destruction of Asgard." },
+  { "id": "8",  "title": "Captain America: The Winter Soldier", "description": "Captain America and Black Widow uncover a conspiracy inside S.H.I.E.L.D. as a deadly assassin emerges." },
+  { "id": "9",  "title": "Guardians of the Galaxy", "description": "A band of misfits must work together to keep a powerful orb out of the wrong hands." },
+  { "id": "10", "title": "Spider-Man: No Way Home", "description": "A spell gone wrong tears open the multiverse, bringing villains from other worlds into Peter’s life." },
+  { "id": "11", "title": "The Dark Knight", "description": "Batman faces the Joker, a criminal mastermind pushing Gotham into chaos." },
+  { "id": "12", "title": "Inception", "description": "A thief who steals corporate secrets through dream-sharing is offered redemption by planting an idea." },
+  { "id": "13", "title": "The Matrix", "description": "A hacker learns reality is a simulation and joins a rebellion against its controllers." },
+  { "id": "14", "title": "Star Wars: A New Hope", "description": "Luke Skywalker joins the Rebellion to destroy the Empire’s planet-killing Death Star." },
+  { "id": "15", "title": "The Lord of the Rings: The Fellowship of the Ring", "description": "Frodo begins a perilous quest to destroy the One Ring and save Middle-earth." },
+  { "id": "16", "title": "Harry Potter and the Sorcerer’s Stone", "description": "An orphan discovers he’s a wizard and starts his first year at Hogwarts School of Witchcraft and Wizardry." },
+  { "id": "17", "title": "Jurassic Park", "description": "A preview tour of a dinosaur theme park turns deadly when security systems fail." },
+  { "id": "18", "title": "Frozen", "description": "Princess Elsa’s ice powers trap the kingdom in winter; her sister Anna sets out to bring her back." },
+  { "id": "19", "title": "The Lion King", "description": "After tragedy, young lion Simba must confront his past and reclaim his place as king." },
+  { "id": "20", "title": "Pirates of the Caribbean: The Curse of the Black Pearl", "description": "Captain Jack Sparrow teams up to rescue the governor’s daughter and face a crew of cursed pirates." }
+]
